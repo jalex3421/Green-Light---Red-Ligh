@@ -16,8 +16,8 @@ Instructions in order to start playing:
 1) Execute the arduino code 
 2) Execute the processing code when a buzzer sound
 
-
-Authors: Inés Vaquero, Alejandro Meza 
+# Authors
+Inés Vaquero and  Alejandro Meza 
 
 <p align="center">
   <img src="https://static.dezeen.com/uploads/2021/10/squid-game-set-design-netflix-south-korea_dezeen_2364_col_hero.jpg" width="500" title="Doll">
