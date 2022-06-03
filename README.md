@@ -5,8 +5,8 @@ After the resounding success of the series Squid Game, many viewers were left wi
 Given this popularity, the idea of bringing this to reality was raised. The main purpose of Green-L Red-L is to allow the user to have an experience close to the 
 game seen in the Korean production.
 
-# Tecnical details
-All the tecnical stuff is described in the pdf file located in the repository.
+# Tecnical details and rules
+All the tecnical stuff and game rules are described in the pdf file located in the repository.
 
 # How to obtain the toy
 The 3d model is located in the repository. A 3d printer is needed. The box that contains all the devices is made from wood -BaseOfTheDoll folder contains the original model of the box-. 
@@ -15,6 +15,7 @@ The 3d model is located in the repository. A 3d printer is needed. The box that 
 Instructions in order to start playing:
 1) Execute the arduino code 
 2) Execute the processing code when a buzzer sound
+
 
 Authors: Inés Vaquero, Alejandro Meza 
 
