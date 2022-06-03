@@ -19,5 +19,5 @@ Instructions in order to start playing:
 Authors: Inés Vaquero, Alejandro Meza 
 
 <p align="center">
-  <img src="https://static.dezeen.com/uploads/2021/10/squid-game-set-design-netflix-south-korea_dezeen_2364_col_hero.jpg" width="350" title="Doll">
+  <img src="https://static.dezeen.com/uploads/2021/10/squid-game-set-design-netflix-south-korea_dezeen_2364_col_hero.jpg" width="500" title="Doll">
 </p>
