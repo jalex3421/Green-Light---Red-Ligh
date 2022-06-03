@@ -9,7 +9,7 @@ game seen in the Korean production.
 All the tecnical stuff is described in the pdf file located in the repository.
 
 # How to obtain the toy
-The 3d model is located in the repository. A 3d printer is needed. The box that contains all the devices is made from wood. 
+The 3d model is located in the repository. A 3d printer is needed. The box that contains all the devices is made from wood -BaseOfTheDoll folder contains the original model of the box-. 
 
 # How to play
 Instructions in order to start playing:
@@ -17,3 +17,5 @@ Instructions in order to start playing:
 2) Execute the processing code when a buzzer sound
 
 Authors: Inés Vaquero, Alejandro Meza 
+
+![alt text]([https://static.dezeen.com/uploads/2021/10/squid-game-set-design-netflix-south-korea_dezeen_2364_col_hero.jpg])
