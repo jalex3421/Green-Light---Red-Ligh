@@ -77,7 +77,7 @@ void loop() {
       noTone(Buzz1);
 
       int noteDuration = 1000 / noteDurations[thisNote];
-      //tone(Buzz2, melody[thisNote], noteDuration);//_------------------->
+      tone(Buzz2, melody[thisNote], noteDuration);//_------------------->
 
        int pauseBetweenNotes = noteDuration * 1.30;
        delay(pauseBetweenNotes);
@@ -101,7 +101,7 @@ void loop() {
         pixels.setPixelColor(1, pixels.Color(255, 0, 0));
         pixels.show();
         for(int i=0;i<4;i++){
-          //tone(Buzz1, 1047, 300); // play tone 72 (C6 = 1047 Hz)
+          tone(Buzz1, 1047, 300); // play tone 72 (C6 = 1047 Hz)
           delay(100);
         }
         delay(1000);
